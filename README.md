@@ -24,6 +24,8 @@ This is a repository for my research on the considerations of children and adole
 
 [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
 
+[The 4As: Ask, Adapt, Author, Analyze - AI Literacy Framework for Families](https://wip.mitpress.mit.edu/pub/the-4as/release/1)
+
 ### A Day in the Life
 
 #### At breakfast
