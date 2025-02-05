@@ -14,7 +14,7 @@ This is a repository for my research on the considerations of children and adole
 
 [‘I need to go outside’ Young people ‘extremely addicted’ as Character.AI explodes](https://www.news.com.au/technology/online/internet/i-need-to-go-outside-young-people-extremely-addicted-as-characterai-explodes/news-story/5780991c61455c680f34b25d5847a341)
 
-
+[Social Robots for Language Learning: A Review](https://journals.sagepub.com/doi/pdf/10.3102/0034654318821286)
 
 ### A Day in the Life
 
