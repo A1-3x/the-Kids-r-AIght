@@ -16,6 +16,12 @@ This is a repository for my research on the considerations of children and adole
 
 [Social Robots for Language Learning: A Review](https://journals.sagepub.com/doi/pdf/10.3102/0034654318821286)
 
+[PopBots: Designing an Artificial Intelligence Curriculum for Early Childhood Education ](https://ojs.aaai.org/index.php/AAAI/article/view/5040)
+
+[How smart are the smart toys?: children and parents' agent interaction and intelligence attribution](https://dl.acm.org/doi/10.1145/3202185.3202741)
+
+[Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent](https://dl.acm.org/doi/10.1145/3267851.3267894)
+
 ### A Day in the Life
 
 #### At breakfast
