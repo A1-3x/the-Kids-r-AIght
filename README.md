@@ -26,6 +26,8 @@ This is a repository for my research on the considerations of children and adole
 
 [The 4As: Ask, Adapt, Author, Analyze - AI Literacy Framework for Families](https://wip.mitpress.mit.edu/pub/the-4as/release/1)
 
+[Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://dl.acm.org/doi/abs/10.1145/3491102.3502031)
+
 ### A Day in the Life
 
 #### At breakfast
