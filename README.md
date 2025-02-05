@@ -22,6 +22,8 @@ This is a repository for my research on the considerations of children and adole
 
 [Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent](https://dl.acm.org/doi/10.1145/3267851.3267894)
 
+[Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
+
 ### A Day in the Life
 
 #### At breakfast
