@@ -25,6 +25,9 @@ This is a repository for my research on the considerations of children and adole
 |  [PopBots: Designing an Artificial Intelligence Curriculum for Early Childhood Education ](https://ojs.aaai.org/index.php/AAAI/article/view/5040)  |  2019  |
 |  [How smart are the smart toys?: children and parents' agent interaction and intelligence attribution](https://dl.acm.org/doi/10.1145/3202185.3202741)  |  2018  |
 |  [Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent](https://dl.acm.org/doi/10.1145/3267851.3267894)  |  2018  |
+|  [“Won’t Somebody Think of the Children?” Examining COPPA Compliance at Scale](https://www.researchgate.net/publication/324864696_Won't_Somebody_Think_of_the_Children_Examining_COPPA_Compliance_at_Scale)  |  2018  |
+|  [Affective, Behavioral, and Cognitive Aspects of Teen Perspectives on Personal Data in Social Media: A Model of Youth Data Literacy](https://www.researchgate.net/publication/323754604_Affective_Behavioral_and_Cognitive_Aspects_of_Teen_Perspectives_on_Personal_Data_in_Social_Media_A_Model_of_Youth_Data_Literacy)  |  2018  |
+|  [Doing data differently? Developing personal data tactics and strategies amongst young mobile media users](https://www.researchgate.net/publication/323788032_Doing_data_differently_Developing_personal_data_tactics_and_strategies_amongst_young_mobile_media_users)  |  2018  |
 
 [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
 
