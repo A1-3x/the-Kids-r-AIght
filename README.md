@@ -13,7 +13,9 @@ This is a repository for my research on the considerations of children and adole
 
 ## Sources
 
-|[Children’s digital playgrounds as data assemblages: Problematics of privacy, personalization, and promotional culture](https://journals.sagepub.com/doi/10.1177/2053951718805214)|2018|
+|  Source  |  Year Published  |
+|----------|------------------|
+|  [Children’s digital playgrounds as data assemblages: Problematics of privacy, personalization, and promotional culture](https://journals.sagepub.com/doi/10.1177/2053951718805214)  |  2018  |
 
 [Netflixing human capital development: personalized learning technology and the corporatization of K-12 education](https://www.tandfonline.com/doi/full/10.1080/02680939.2015.1132774)
 
