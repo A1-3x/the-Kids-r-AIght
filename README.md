@@ -19,16 +19,11 @@ This is a repository for my research on the considerations of children and adole
 |  [Netflixing human capital development: personalized learning technology and the corporatization of K-12 education](https://www.tandfonline.com/doi/full/10.1080/02680939.2015.1132774)  | 2016  |
 |  [Artificial Intelligence (AI) Literacy in Early Childhood Education: The Challenges and Opportunities](https://www.sciencedirect.com/science/article/pii/S2666920X23000036)  | 2023  |
 |  [AI's empathy gap: The risks of conversational Artificial Intelligence for young children's well-being and key ethical considerations for early childhood education and care](https://journals.sagepub.com/doi/10.1177/14639491231206004)  |  2023  |
-
-[‘No, Alexa, no!’: designing child-safe AI and protecting children from the risks of the ‘empathy gap’ in large language models](https://doi.org/10.1080/17439884.2024.2367052)
-
-[‘I need to go outside’ Young people ‘extremely addicted’ as Character.AI explodes](https://www.news.com.au/technology/online/internet/i-need-to-go-outside-young-people-extremely-addicted-as-characterai-explodes/news-story/5780991c61455c680f34b25d5847a341)
-
-[Social Robots for Language Learning: A Review](https://journals.sagepub.com/doi/pdf/10.3102/0034654318821286)
-
-[PopBots: Designing an Artificial Intelligence Curriculum for Early Childhood Education ](https://ojs.aaai.org/index.php/AAAI/article/view/5040)
-
-[How smart are the smart toys?: children and parents' agent interaction and intelligence attribution](https://dl.acm.org/doi/10.1145/3202185.3202741)
+|  [‘No, Alexa, no!’: designing child-safe AI and protecting children from the risks of the ‘empathy gap’ in large language models](https://doi.org/10.1080/17439884.2024.2367052)  |  2024  |
+|  [‘I need to go outside’ Young people ‘extremely addicted’ as Character.AI explodes](https://www.news.com.au/technology/online/internet/i-need-to-go-outside-young-people-extremely-addicted-as-characterai-explodes/news-story/5780991c61455c680f34b25d5847a341)  |  2024  |
+|  [Social Robots for Language Learning: A Review](https://journals.sagepub.com/doi/pdf/10.3102/0034654318821286)  |  2019  |
+|  [PopBots: Designing an Artificial Intelligence Curriculum for Early Childhood Education ](https://ojs.aaai.org/index.php/AAAI/article/view/5040)  |  2019  |
+|  [How smart are the smart toys?: children and parents' agent interaction and intelligence attribution](https://dl.acm.org/doi/10.1145/3202185.3202741)  |  2018  |
 
 [Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent](https://dl.acm.org/doi/10.1145/3267851.3267894)
 
