@@ -9,6 +9,10 @@ This is a repository for my research on the considerations of children and adole
 
 ## Sources
 
+[Children’s digital playgrounds as data assemblages: Problematics of privacy, personalization, and promotional culture](https://journals.sagepub.com/doi/10.1177/2053951718805214)
+
+[Netflixing human capital development: personalized learning technology and the corporatization of K-12 education](https://www.tandfonline.com/doi/full/10.1080/02680939.2015.1132774)
+
 [Artificial Intelligence (AI) Literacy in Early Childhood Education: The Challenges and Opportunities](https://www.sciencedirect.com/science/article/pii/S2666920X23000036)
 
 [AI's empathy gap: The risks of conversational Artificial Intelligence for young children's well-being and key ethical considerations for early childhood education and care](https://journals.sagepub.com/doi/10.1177/14639491231206004)
@@ -32,6 +36,8 @@ This is a repository for my research on the considerations of children and adole
 [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://dl.acm.org/doi/abs/10.1145/3491102.3502031)
 
 [Growing up with AI. Cognimates: from coding to teaching machines](https://www.media.mit.edu/publications/growing-up-with-ai/)
+
+[Why All Our Classes Suddenly Became AI Classes](https://hbsp.harvard.edu/inspiring-minds/why-all-our-classes-suddenly-became-ai-classes?cid=email%7Cmarketo%7C2023-02-13-ai-in-the-classroom%7C20537180%7Cthemed-broadcast%7Cnon-ug%7Cvarious%7Cfeb2023&acctID=19482496&mkt_tok=ODU1LUFUWi0yOTQAAAGJ6aG_5j2fTfPtGS0kaafUQNVo9_im3RrfDp3PJY44jdhh8zeS4JeF37bwnMmQ2TAjHTd4nWY9NMTsAnNjlr9UAA-_UmAHhF31k3QaeN0kKtk)
 
 ### A Day in the Life
 
