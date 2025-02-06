@@ -24,8 +24,7 @@ This is a repository for my research on the considerations of children and adole
 |  [Social Robots for Language Learning: A Review](https://journals.sagepub.com/doi/pdf/10.3102/0034654318821286)  |  2019  |
 |  [PopBots: Designing an Artificial Intelligence Curriculum for Early Childhood Education ](https://ojs.aaai.org/index.php/AAAI/article/view/5040)  |  2019  |
 |  [How smart are the smart toys?: children and parents' agent interaction and intelligence attribution](https://dl.acm.org/doi/10.1145/3202185.3202741)  |  2018  |
-
-[Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent](https://dl.acm.org/doi/10.1145/3267851.3267894)
+|  [Towards Automatic Generation of Peer-Targeted Science Talk in Curiosity-Evoking Virtual Agent](https://dl.acm.org/doi/10.1145/3267851.3267894)  |  2018  |
 
 [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
 
