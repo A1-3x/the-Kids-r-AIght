@@ -43,6 +43,8 @@ This is a repository for my research on the considerations of children and adole
 
 [Child Safety in the Smart Home: Parents’ Perceptions, Needs, and Mitigation Strategies](https://dl.acm.org/doi/pdf/10.1145/3479858)
 
+[Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children](https://www.researchgate.net/publication/360331424_Informing_Age-Appropriate_AI_Examining_Principles_and_Practices_of_AI_for_Children)
+
 ### A Day in the Life
 
 #### At breakfast
@@ -54,6 +56,8 @@ This is a repository for my research on the considerations of children and adole
 [After BPS Reschedules School Start Times By Computer, Parents Push Back](https://www.wbur.org/news/2017/12/09/bps-reschedules-start-times-parents-push-back)
 
 [What the Boston school bus schedule can teach us about AI](https://www.media.mit.edu/articles/what-the-boston-school-bus-schedule-can-teach-us-about-ai/)
+
+[Understanding Research Related to Designing for Children’s Privacy and Security: A Document Analysis](https://dl.acm.org/doi/pdf/10.1145/3585088.3589375)
 
 #### At home
 
