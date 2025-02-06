@@ -31,6 +31,8 @@ This is a repository for my research on the considerations of children and adole
 
 [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://dl.acm.org/doi/abs/10.1145/3491102.3502031)
 
+[Growing up with AI. Cognimates: from coding to teaching machines](https://www.media.mit.edu/publications/growing-up-with-ai/)
+
 ### A Day in the Life
 
 #### At breakfast
