@@ -9,6 +9,8 @@ This is a repository for my research on the considerations of children and adole
 
 [AI4Good Incubator](https://www.teensinai.com/ai4good-incubator/)
 
+[AI Campus](https://ki-campus.org/)
+
 ## Sources
 
 [Children’s digital playgrounds as data assemblages: Problematics of privacy, personalization, and promotional culture](https://journals.sagepub.com/doi/10.1177/2053951718805214)
