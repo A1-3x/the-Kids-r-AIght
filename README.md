@@ -7,6 +7,8 @@ This is a repository for my research on the considerations of children and adole
 
 [AI Playground](http://aiplayground.me/)
 
+[AI4Good Incubator](https://www.teensinai.com/ai4good-incubator/)
+
 ## Sources
 
 [Children’s digital playgrounds as data assemblages: Problematics of privacy, personalization, and promotional culture](https://journals.sagepub.com/doi/10.1177/2053951718805214)
@@ -48,6 +50,14 @@ This is a repository for my research on the considerations of children and adole
 [Designing Parental Monitoring and Control Technology: A Systematic Review](https://web.lums.edu.pk/~mobin/publications/2021/parentalmonitoring-INTERACT21.pdf)
 
 [From Parental Control to Joint Family Oversight: Can Parents and Teens Manage Mobile Online Safety and Privacy as Equals?](https://www.researchgate.net/publication/361809006_From_Parental_Control_to_Joint_Family_Oversight_Can_Parents_and_Teens_Manage_Mobile_Online_Safety_and_Privacy_as_Equals)
+
+[Exploring Children's Right and AI](https://www.childrensparliament.org.uk/our-work/exploring-childrens-rights-and-ai/)
+
+[World Economic Forum Artificial Intelligence for Children Toolkit](https://www3.weforum.org/docs/WEF_Artificial_Intelligence_for_Children_2022.pdf)
+
+[What can children teach us about AI?](https://www.turing.ac.uk/blog/what-can-children-teach-us-about-ai)
+
+[AI, Children’s Rights, & Wellbeing: Transnational Frameworks](https://www.turing.ac.uk/sites/default/files/2023-12/ai-childrens_rights-_wellbeing-transnational_frameworks_report.pdf)
 
 ### A Day in the Life
 
