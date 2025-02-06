@@ -59,6 +59,8 @@ This is a repository for my research on the considerations of children and adole
 
 [AI, Children’s Rights, & Wellbeing: Transnational Frameworks](https://www.turing.ac.uk/sites/default/files/2023-12/ai-childrens_rights-_wellbeing-transnational_frameworks_report.pdf)
 
+[Implementing a 15-week AI-education program with under-resourced families across 13 global communities](https://www.researchgate.net/publication/343096901_Implementing_a_15-week_AI-education_program_with_under-resourced_families_across_13_global_communities)
+
 ### A Day in the Life
 
 #### At breakfast
