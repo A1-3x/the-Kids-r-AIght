@@ -39,6 +39,10 @@ This is a repository for my research on the considerations of children and adole
 
 [Why All Our Classes Suddenly Became AI Classes](https://hbsp.harvard.edu/inspiring-minds/why-all-our-classes-suddenly-became-ai-classes?cid=email%7Cmarketo%7C2023-02-13-ai-in-the-classroom%7C20537180%7Cthemed-broadcast%7Cnon-ug%7Cvarious%7Cfeb2023&acctID=19482496&mkt_tok=ODU1LUFUWi0yOTQAAAGJ6aG_5j2fTfPtGS0kaafUQNVo9_im3RrfDp3PJY44jdhh8zeS4JeF37bwnMmQ2TAjHTd4nWY9NMTsAnNjlr9UAA-_UmAHhF31k3QaeN0kKtk)
 
+[Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications](https://arxiv.org/pdf/2406.10461)
+
+[Child Safety in the Smart Home: Parents’ Perceptions, Needs, and Mitigation Strategies](https://dl.acm.org/doi/pdf/10.1145/3479858)
+
 ### A Day in the Life
 
 #### At breakfast
