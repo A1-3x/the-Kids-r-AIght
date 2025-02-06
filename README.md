@@ -45,6 +45,10 @@ This is a repository for my research on the considerations of children and adole
 
 [Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children](https://www.researchgate.net/publication/360331424_Informing_Age-Appropriate_AI_Examining_Principles_and_Practices_of_AI_for_Children)
 
+[Designing Parental Monitoring and Control Technology: A Systematic Review](https://web.lums.edu.pk/~mobin/publications/2021/parentalmonitoring-INTERACT21.pdf)
+
+[From Parental Control to Joint Family Oversight: Can Parents and Teens Manage Mobile Online Safety and Privacy as Equals?](https://www.researchgate.net/publication/361809006_From_Parental_Control_to_Joint_Family_Oversight_Can_Parents_and_Teens_Manage_Mobile_Online_Safety_and_Privacy_as_Equals)
+
 ### A Day in the Life
 
 #### At breakfast
