@@ -11,6 +11,16 @@ This is a repository for my research on the considerations of children and adole
 
 [AI Campus](https://ki-campus.org/)
 
+[Teachable Machine](teachablemachine.withgoogle.com)
+
+[Machine Learning for Kids](https://machinelearningforkids.co.uk)
+
+[micro:bit](https://microbit.org/)
+
+[Cognimates](http://cognimates.me/)
+
+[Machine Learning for Middle Schoolers](https://writings.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/)
+
 ## Sources
 
 |  Source  |  Year Published  |
@@ -29,6 +39,8 @@ This is a repository for my research on the considerations of children and adole
 |  [Affective, Behavioral, and Cognitive Aspects of Teen Perspectives on Personal Data in Social Media: A Model of Youth Data Literacy](https://www.researchgate.net/publication/323754604_Affective_Behavioral_and_Cognitive_Aspects_of_Teen_Perspectives_on_Personal_Data_in_Social_Media_A_Model_of_Youth_Data_Literacy)  |  2018  |
 |  [Doing data differently? Developing personal data tactics and strategies amongst young mobile media users](https://www.researchgate.net/publication/323788032_Doing_data_differently_Developing_personal_data_tactics_and_strategies_amongst_young_mobile_media_users)  |  2018  |
 |  [Teaching Tech to Talk: K-12 Conversational Artificial Intelligence Literacy Curriculum and Development Tools](https://ojs.aaai.org/index.php/AAAI/article/view/17844)  |  2021  | 
+|  [Teachable Machine:Approachable Web-Based Tool for Exploring Machine Learning Classification](https://nourahowell.com/static/pdf/2020_CHI_LBW_Teachable_Machine.pdf)  |  2020  |
+|  [SmileyCluster: Supporting Accessible Machine Learning in K-12 Scientific Discovery](https://zhenbai.io/wp-content/uploads/2020/11/SmileyCluster_IDC20.pdf)  |  2020  |
 
 [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
 
