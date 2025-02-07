@@ -41,6 +41,8 @@ This is a repository for my research on the considerations of children and adole
 |  [Teaching Tech to Talk: K-12 Conversational Artificial Intelligence Literacy Curriculum and Development Tools](https://ojs.aaai.org/index.php/AAAI/article/view/17844)  |  2021  | 
 |  [Teachable Machine:Approachable Web-Based Tool for Exploring Machine Learning Classification](https://nourahowell.com/static/pdf/2020_CHI_LBW_Teachable_Machine.pdf)  |  2020  |
 |  [SmileyCluster: Supporting Accessible Machine Learning in K-12 Scientific Discovery](https://zhenbai.io/wp-content/uploads/2020/11/SmileyCluster_IDC20.pdf)  |  2020  |
+|  [Artificial Intelligence (AI) Literacy in Early Childhood Education: The Challenges and Opportunities](https://www.sciencedirect.com/science/article/pii/S2666920X23000036?via%3Dihub)  |  2023  |
+|  [AI, Children’s Rights, & Wellbeing: Transnational Frameworks](https://www.turing.ac.uk/sites/default/files/2023-12/ai-childrens_rights-_wellbeing-transnational_frameworks_report.pdf)  |  2023  |
 
 [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
 
@@ -68,7 +70,7 @@ This is a repository for my research on the considerations of children and adole
 
 [What can children teach us about AI?](https://www.turing.ac.uk/blog/what-can-children-teach-us-about-ai)
 
-[AI, Children’s Rights, & Wellbeing: Transnational Frameworks](https://www.turing.ac.uk/sites/default/files/2023-12/ai-childrens_rights-_wellbeing-transnational_frameworks_report.pdf)
+
 
 [Implementing a 15-week AI-education program with under-resourced families across 13 global communities](https://www.researchgate.net/publication/343096901_Implementing_a_15-week_AI-education_program_with_under-resourced_families_across_13_global_communities)
 
