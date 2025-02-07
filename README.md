@@ -45,7 +45,8 @@ This is a repository for my research on the considerations of children and adole
 |  [AI, Children’s Rights, & Wellbeing: Transnational Frameworks](https://www.turing.ac.uk/sites/default/files/2023-12/ai-childrens_rights-_wellbeing-transnational_frameworks_report.pdf)  |  2023  |
 |  [Alexa doesn't Have that Many Feelings’: Children's Understanding of AI through Interactions with Smart Speakers in their Homes](https://www.sciencedirect.com/science/article/pii/S2666920X23000553)  |  2023  |
 |  [[Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children](https://www.researchgate.net/publication/360331424_Informing_Age-Appropriate_AI_Examining_Principles_and_Practices_of_AI_for_Children)]  |  2022  |
-
+|  [There is no right age! The search for age-appropriate ways to support children’s digital lives and rights](https://www.tandfonline.com/doi/full/10.1080/17482798.2024.2435015?src=)  |  2025  |
+|  [Why All Our Classes Suddenly Became AI Classes](https://hbsp.harvard.edu/inspiring-minds/why-all-our-classes-suddenly-became-ai-classes?cid=email%7Cmarketo%7C2023-02-13-ai-in-the-classroom%7C20537180%7Cthemed-broadcast%7Cnon-ug%7Cvarious%7Cfeb2023&acctID=19482496&mkt_tok=ODU1LUFUWi0yOTQAAAGJ6aG_5j2fTfPtGS0kaafUQNVo9_im3RrfDp3PJY44jdhh8zeS4JeF37bwnMmQ2TAjHTd4nWY9NMTsAnNjlr9UAA-_UmAHhF31k3QaeN0kKtk)  |  2023  |
 
 [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
 
@@ -55,13 +56,10 @@ This is a repository for my research on the considerations of children and adole
 
 [Growing up with AI. Cognimates: from coding to teaching machines](https://www.media.mit.edu/publications/growing-up-with-ai/)
 
-[Why All Our Classes Suddenly Became AI Classes](https://hbsp.harvard.edu/inspiring-minds/why-all-our-classes-suddenly-became-ai-classes?cid=email%7Cmarketo%7C2023-02-13-ai-in-the-classroom%7C20537180%7Cthemed-broadcast%7Cnon-ug%7Cvarious%7Cfeb2023&acctID=19482496&mkt_tok=ODU1LUFUWi0yOTQAAAGJ6aG_5j2fTfPtGS0kaafUQNVo9_im3RrfDp3PJY44jdhh8zeS4JeF37bwnMmQ2TAjHTd4nWY9NMTsAnNjlr9UAA-_UmAHhF31k3QaeN0kKtk)
 
 [Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications](https://arxiv.org/pdf/2406.10461)
 
 [Child Safety in the Smart Home: Parents’ Perceptions, Needs, and Mitigation Strategies](https://dl.acm.org/doi/pdf/10.1145/3479858)
-
-[Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children](https://www.researchgate.net/publication/360331424_Informing_Age-Appropriate_AI_Examining_Principles_and_Practices_of_AI_for_Children)
 
 [Designing Parental Monitoring and Control Technology: A Systematic Review](https://web.lums.edu.pk/~mobin/publications/2021/parentalmonitoring-INTERACT21.pdf)
 
