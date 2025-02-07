@@ -43,6 +43,9 @@ This is a repository for my research on the considerations of children and adole
 |  [SmileyCluster: Supporting Accessible Machine Learning in K-12 Scientific Discovery](https://zhenbai.io/wp-content/uploads/2020/11/SmileyCluster_IDC20.pdf)  |  2020  |
 |  [Artificial Intelligence (AI) Literacy in Early Childhood Education: The Challenges and Opportunities](https://www.sciencedirect.com/science/article/pii/S2666920X23000036?via%3Dihub)  |  2023  |
 |  [AI, Children’s Rights, & Wellbeing: Transnational Frameworks](https://www.turing.ac.uk/sites/default/files/2023-12/ai-childrens_rights-_wellbeing-transnational_frameworks_report.pdf)  |  2023  |
+|  [Alexa doesn't Have that Many Feelings’: Children's Understanding of AI through Interactions with Smart Speakers in their Homes](https://www.sciencedirect.com/science/article/pii/S2666920X23000553)  |  2023  |
+|  [[Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children](https://www.researchgate.net/publication/360331424_Informing_Age-Appropriate_AI_Examining_Principles_and_Practices_of_AI_for_Children)]  |  2022  |
+
 
 [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
 
@@ -92,3 +95,6 @@ This is a repository for my research on the considerations of children and adole
 
 [Alexa tells 10-year-old girl to touch live plug with penny](https://www.bbc.com/news/technology-59810383)
 
+#### Online
+
+[Snapchat Tried to Make a Safe AI. It Chats with Me about Booze and Sex](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/)
