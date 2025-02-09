@@ -21,6 +21,8 @@ This is a repository for my research on the considerations of children and adole
 
 [Machine Learning for Middle Schoolers](https://writings.stephenwolfram.com/2017/05/machine-learning-for-middle-schoolers/)
 
+[AI Adventures Self-Paced Courses](https://www.teensinai.com/courses/)
+
 ## Sources
 
 |  Source  |  Year Published  |
@@ -47,6 +49,11 @@ This is a repository for my research on the considerations of children and adole
 |  [[Informing Age-Appropriate AI: Examining Principles and Practices of AI for Children](https://www.researchgate.net/publication/360331424_Informing_Age-Appropriate_AI_Examining_Principles_and_Practices_of_AI_for_Children)]  |  2022  |
 |  [There is no right age! The search for age-appropriate ways to support children’s digital lives and rights](https://www.tandfonline.com/doi/full/10.1080/17482798.2024.2435015?src=)  |  2025  |
 |  [Why All Our Classes Suddenly Became AI Classes](https://hbsp.harvard.edu/inspiring-minds/why-all-our-classes-suddenly-became-ai-classes?cid=email%7Cmarketo%7C2023-02-13-ai-in-the-classroom%7C20537180%7Cthemed-broadcast%7Cnon-ug%7Cvarious%7Cfeb2023&acctID=19482496&mkt_tok=ODU1LUFUWi0yOTQAAAGJ6aG_5j2fTfPtGS0kaafUQNVo9_im3RrfDp3PJY44jdhh8zeS4JeF37bwnMmQ2TAjHTd4nWY9NMTsAnNjlr9UAA-_UmAHhF31k3QaeN0kKtk)  |  2023  |
+|  [What can children teach us about AI?](https://www.turing.ac.uk/blog/what-can-children-teach-us-about-ai)  |  2023  |
+|  [World Economic Forum Artificial Intelligence for Children Toolkit](https://www3.weforum.org/docs/WEF_Artificial_Intelligence_for_Children_2022.pdf)  |  2022  |
+|  [Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications](https://arxiv.org/pdf/2406.10461)  |  2024  |
+|  [Exploring Children's Right and AI](https://www.childrensparliament.org.uk/our-work/exploring-childrens-rights-and-ai/)  |  2024  |
+|  [From Parental Control to Joint Family Oversight: Can Parents and Teens Manage Mobile Online Safety and Privacy as Equals?](https://www.researchgate.net/publication/361809006_From_Parental_Control_to_Joint_Family_Oversight_Can_Parents_and_Teens_Manage_Mobile_Online_Safety_and_Privacy_as_Equals)  |  2022  |
 
 [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
 
@@ -56,22 +63,9 @@ This is a repository for my research on the considerations of children and adole
 
 [Growing up with AI. Cognimates: from coding to teaching machines](https://www.media.mit.edu/publications/growing-up-with-ai/)
 
-
-[Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications](https://arxiv.org/pdf/2406.10461)
-
 [Child Safety in the Smart Home: Parents’ Perceptions, Needs, and Mitigation Strategies](https://dl.acm.org/doi/pdf/10.1145/3479858)
 
 [Designing Parental Monitoring and Control Technology: A Systematic Review](https://web.lums.edu.pk/~mobin/publications/2021/parentalmonitoring-INTERACT21.pdf)
-
-[From Parental Control to Joint Family Oversight: Can Parents and Teens Manage Mobile Online Safety and Privacy as Equals?](https://www.researchgate.net/publication/361809006_From_Parental_Control_to_Joint_Family_Oversight_Can_Parents_and_Teens_Manage_Mobile_Online_Safety_and_Privacy_as_Equals)
-
-[Exploring Children's Right and AI](https://www.childrensparliament.org.uk/our-work/exploring-childrens-rights-and-ai/)
-
-[World Economic Forum Artificial Intelligence for Children Toolkit](https://www3.weforum.org/docs/WEF_Artificial_Intelligence_for_Children_2022.pdf)
-
-[What can children teach us about AI?](https://www.turing.ac.uk/blog/what-can-children-teach-us-about-ai)
-
-
 
 [Implementing a 15-week AI-education program with under-resourced families across 13 global communities](https://www.researchgate.net/publication/343096901_Implementing_a_15-week_AI-education_program_with_under-resourced_families_across_13_global_communities)
 
