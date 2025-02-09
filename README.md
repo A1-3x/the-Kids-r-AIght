@@ -54,20 +54,18 @@ This is a repository for my research on the considerations of children and adole
 |  [Exploring Parent-Child Perceptions on Safety in Generative AI: Concerns, Mitigation Strategies, and Design Implications](https://arxiv.org/pdf/2406.10461)  |  2024  |
 |  [Exploring Children's Right and AI](https://www.childrensparliament.org.uk/our-work/exploring-childrens-rights-and-ai/)  |  2024  |
 |  [From Parental Control to Joint Family Oversight: Can Parents and Teens Manage Mobile Online Safety and Privacy as Equals?](https://www.researchgate.net/publication/361809006_From_Parental_Control_to_Joint_Family_Oversight_Can_Parents_and_Teens_Manage_Mobile_Online_Safety_and_Privacy_as_Equals)  |  2022  |
-
-[Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)
-
-[The 4As: Ask, Adapt, Author, Analyze - AI Literacy Framework for Families](https://wip.mitpress.mit.edu/pub/the-4as/release/1)
-
-[Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://dl.acm.org/doi/abs/10.1145/3491102.3502031)
-
-[Growing up with AI. Cognimates: from coding to teaching machines](https://www.media.mit.edu/publications/growing-up-with-ai/)
+|  [Authenticity and Co-design: On Responsibly Creating Relational Robots for Children](https://wip.mitpress.mit.edu/pub/authenticity-and-co-design/release/1)  |  2021  |
+|  [The 4As: Ask, Adapt, Author, Analyze - AI Literacy Framework for Families](https://wip.mitpress.mit.edu/pub/the-4as/release/1)  |  2021  |
+|  [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://dl.acm.org/doi/abs/10.1145/3491102.3502031)  |  2022  |
+|  [Growing up with AI. Cognimates: from coding to teaching machines](https://www.media.mit.edu/publications/growing-up-with-ai/)  |  2018  |
 
 [Child Safety in the Smart Home: Parents’ Perceptions, Needs, and Mitigation Strategies](https://dl.acm.org/doi/pdf/10.1145/3479858)
 
 [Designing Parental Monitoring and Control Technology: A Systematic Review](https://web.lums.edu.pk/~mobin/publications/2021/parentalmonitoring-INTERACT21.pdf)
 
 [Implementing a 15-week AI-education program with under-resourced families across 13 global communities](https://www.researchgate.net/publication/343096901_Implementing_a_15-week_AI-education_program_with_under-resourced_families_across_13_global_communities)
+
+[Understanding Research Related to Designing for Children’s Privacy and Security: A Document Analysis](https://dl.acm.org/doi/pdf/10.1145/3585088.3589375)
 
 ### A Day in the Life
 
@@ -81,12 +79,16 @@ This is a repository for my research on the considerations of children and adole
 
 [What the Boston school bus schedule can teach us about AI](https://www.media.mit.edu/articles/what-the-boston-school-bus-schedule-can-teach-us-about-ai/)
 
-[Understanding Research Related to Designing for Children’s Privacy and Security: A Document Analysis](https://dl.acm.org/doi/pdf/10.1145/3585088.3589375)
+#### On the way home
+
+[Snapchat Tried to Make a Safe AI. It Chats with Me about Booze and Sex](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/)
 
 #### At home
 
 [Alexa tells 10-year-old girl to touch live plug with penny](https://www.bbc.com/news/technology-59810383)
 
-#### Online
+#### Before dinner
 
-[Snapchat Tried to Make a Safe AI. It Chats with Me about Booze and Sex](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/)
+[An eating disorders chatbot offered dieting advice, raising fears about AI in health](https://www.npr.org/sections/health-shots/2023/06/08/1180838096/an-eating-disorders-chatbot-offered-dieting-advice-raising-fears-about-ai-in-hea)
+
+
