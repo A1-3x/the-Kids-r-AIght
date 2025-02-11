@@ -57,15 +57,13 @@ This is a repository for my research on the considerations of children and adole
 |  [The 4As: Ask, Adapt, Author, Analyze - AI Literacy Framework for Families](https://wip.mitpress.mit.edu/pub/the-4as/release/1)  |  2021  |
 |  [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://dl.acm.org/doi/abs/10.1145/3491102.3502031)  |  2022  |
 |  [Growing up with AI. Cognimates: from coding to teaching machines](https://www.media.mit.edu/publications/growing-up-with-ai/)  |  2018  |
-
-[Child Safety in the Smart Home: Parents’ Perceptions, Needs, and Mitigation Strategies](https://dl.acm.org/doi/pdf/10.1145/3479858)
-
-[Designing Parental Monitoring and Control Technology: A Systematic Review](https://web.lums.edu.pk/~mobin/publications/2021/parentalmonitoring-INTERACT21.pdf)
-
-[Implementing a 15-week AI-education program with under-resourced families across 13 global communities](https://www.researchgate.net/publication/343096901_Implementing_a_15-week_AI-education_program_with_under-resourced_families_across_13_global_communities)
-
-[Understanding Research Related to Designing for Children’s Privacy and Security: A Document Analysis](https://dl.acm.org/doi/pdf/10.1145/3585088.3589375)
-
+|  [A is for artificial intelligence: the impact of artificial intelligence activities on young children's perceptions of robots](https://dl.acm.org/doi/pdf/10.1145/3290605.3300677)  |  2019  |
+|  [Zhorai: Designing a conversational agent for children to explore machine learning concepts](https://ojs.aaai.org/index.php/AAAI/article/view/7061)  |  2020  |
+|  [Artificial intelligence in early childhood education: A scoping review](https://www.sciencedirect.com/science/article/pii/S2666920X22000042)  |  2022  |
+|  [Child Safety in the Smart Home: Parents’ Perceptions, Needs, and Mitigation Strategies](https://dl.acm.org/doi/pdf/10.1145/3479858)  |  2021  |
+|  [Designing Parental Monitoring and Control Technology: A Systematic Review](https://web.lums.edu.pk/~mobin/publications/2021/parentalmonitoring-INTERACT21.pdf)  |  2021  |
+|  [Implementing a 15-week AI-education program with under-resourced families across 13 global communities](https://www.researchgate.net/publication/343096901_Implementing_a_15-week_AI-education_program_with_under-resourced_families_across_13_global_communities)  |  2020  |
+|  [Understanding Research Related to Designing for Children’s Privacy and Security: A Document Analysis](https://dl.acm.org/doi/pdf/10.1145/3585088.3589375)  |  2023  |
 
 ### A Day in the Life
 
