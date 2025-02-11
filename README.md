@@ -65,31 +65,31 @@ This is a repository for my research on the considerations of children and adole
 |  [Implementing a 15-week AI-education program with under-resourced families across 13 global communities](https://www.researchgate.net/publication/343096901_Implementing_a_15-week_AI-education_program_with_under-resourced_families_across_13_global_communities)  |  2020  |
 |  [Understanding Research Related to Designing for Children’s Privacy and Security: A Document Analysis](https://dl.acm.org/doi/pdf/10.1145/3585088.3589375)  |  2023  |
 
-### A Day in the Life
+## A Day in the Life
 
-#### At breakfast
+### :doughnut: At breakfast
 
 [What Happens When States Go Hunting for Welfare Fraud](https://stateline.org/2017/05/24/what-happens-when-states-go-hunting-for-welfare-fraud/)
 
-#### :bus: Bus route
+### 🚏 Bus route
 
 [After BPS Reschedules School Start Times By Computer, Parents Push Back](https://www.wbur.org/news/2017/12/09/bps-reschedules-start-times-parents-push-back)
 
 [What the Boston school bus schedule can teach us about AI](https://www.media.mit.edu/articles/what-the-boston-school-bus-schedule-can-teach-us-about-ai/)
 
-#### On the way home
+### 🚌 On the way home
 
 [Snapchat Tried to Make a Safe AI. It Chats with Me about Booze and Sex](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/)
 
-#### At home
+### 🏠 At home
 
 [Alexa tells 10-year-old girl to touch live plug with penny](https://www.bbc.com/news/technology-59810383)
 
-#### Before dinner
+### 🍛 Before dinner
 
 [An eating disorders chatbot offered dieting advice, raising fears about AI in health](https://www.npr.org/sections/health-shots/2023/06/08/1180838096/an-eating-disorders-chatbot-offered-dieting-advice-raising-fears-about-ai-in-hea)
 
-#### After Dinner
+### 💻 After Dinner
 
 [‘I need to go outside’ Young people ‘extremely addicted’ as Character.AI explodes](https://www.news.com.au/technology/online/internet/i-need-to-go-outside-young-people-extremely-addicted-as-characterai-explodes/news-story/5780991c61455c680f34b25d5847a341)
 
