@@ -64,6 +64,8 @@ This is a repository for my research on the considerations of children and adole
 |  [Designing Parental Monitoring and Control Technology: A Systematic Review](https://web.lums.edu.pk/~mobin/publications/2021/parentalmonitoring-INTERACT21.pdf)  |  2021  |
 |  [Implementing a 15-week AI-education program with under-resourced families across 13 global communities](https://www.researchgate.net/publication/343096901_Implementing_a_15-week_AI-education_program_with_under-resourced_families_across_13_global_communities)  |  2020  |
 |  [Understanding Research Related to Designing for Children’s Privacy and Security: A Document Analysis](https://dl.acm.org/doi/pdf/10.1145/3585088.3589375)  |  2023  |
+|  [Application and theory gaps during the rise of artificial intelligence in education](https://www.sciencedirect.com/science/article/pii/S2666920X20300023)  |  2020  |
+|  [Using digital story writing as a pedagogy to develop AI literacy among primary students](https://www.sciencedirect.com/science/article/pii/S2666920X22000091)  |  2022  |
 
 ## A Day in the Life
 
