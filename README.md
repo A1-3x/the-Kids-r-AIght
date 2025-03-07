@@ -68,6 +68,7 @@ This is a repository for my research on the considerations of children and adole
 |  [Using digital story writing as a pedagogy to develop AI literacy among primary students](https://www.sciencedirect.com/science/article/pii/S2666920X22000091)  |  2022  |
 |  [Harnessing Global AI Education Strategies to Transform U.S. Schools Today](https://media.licdn.com/dms/document/media/v2/D561FAQEV39gpW87s7Q/feedshare-document-pdf-analyzed/B56ZVSJ0jJGQAg-/0/1740840070672?e=1742428800&v=beta&t=841EDJAlKYOOR_g94SygDvzwYZWKvavD_hs77I5BYa0)  |  2025  |
 |  [Washington State Superintendent's Human-Centered AI Guidance for K–12 Public Schools](https://ospi.k12.wa.us/sites/default/files/2024-08/comprehensive-ai-guidance-accessible-format_0.pdf)  |  2024  |
+|  [Leading While Learning in an Age of AI - Maryland State Department of Education](https://www.marylandpublicschools.org/stateboard/Documents/2024/0827/Code-Org-A.pdf)  |  2024  |
 
 ## A Day in the Life
 
@@ -80,6 +81,10 @@ This is a repository for my research on the considerations of children and adole
 [After BPS Reschedules School Start Times By Computer, Parents Push Back](https://www.wbur.org/news/2017/12/09/bps-reschedules-start-times-parents-push-back)
 
 [What the Boston school bus schedule can teach us about AI](https://www.media.mit.edu/articles/what-the-boston-school-bus-schedule-can-teach-us-about-ai/)
+
+### :school: At School
+
+[A State Uses AI to Determine School Funding. Is This the Future or a Cautionary Tale?](https://www.edweek.org/policy-politics/a-state-uses-ai-to-determine-school-funding-is-this-the-future-or-a-cautionary-tale/2024/02)
 
 ### 🚌 On the way home
 
