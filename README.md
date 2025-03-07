@@ -66,6 +66,7 @@ This is a repository for my research on the considerations of children and adole
 |  [Understanding Research Related to Designing for Children’s Privacy and Security: A Document Analysis](https://dl.acm.org/doi/pdf/10.1145/3585088.3589375)  |  2023  |
 |  [Application and theory gaps during the rise of artificial intelligence in education](https://www.sciencedirect.com/science/article/pii/S2666920X20300023)  |  2020  |
 |  [Using digital story writing as a pedagogy to develop AI literacy among primary students](https://www.sciencedirect.com/science/article/pii/S2666920X22000091)  |  2022  |
+|  [Harnessing Global AI Education Strategies to Transform U.S. Schools Today](https://media.licdn.com/dms/document/media/v2/D561FAQEV39gpW87s7Q/feedshare-document-pdf-analyzed/B56ZVSJ0jJGQAg-/0/1740840070672?e=1742428800&v=beta&t=841EDJAlKYOOR_g94SygDvzwYZWKvavD_hs77I5BYa0)  |  2025  |
 
 ## A Day in the Life
 
